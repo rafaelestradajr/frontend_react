@@ -7,10 +7,11 @@ const SocialMedia = () => (
   <div className="app__social">
     <div>
       
-<BsLinkedin />
+<BsLinkedin  />
     
     </div>
     <div>
+      
       <FaFacebookF />
     </div>
     <div>
